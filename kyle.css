@@ -1,3 +1,7 @@
 .jumboContent h1{
     text-align: center;
 }
+
+.jumboContent .jumboButton{
+    text-align: center;
+}
