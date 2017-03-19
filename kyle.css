@@ -1,7 +1,21 @@
+body{
+    background-image: url("./images/ClockTower.jpg");
+    background-position: center center;
+}
+
+.jumbotron{
+    background: transparent !important;
+}
+
 .jumboContent h1{
     text-align: center;
+    color: lightskyblue;
 }
 
 .jumboContent .jumboButton{
     text-align: center;
+}
+
+.mainContent{
+    color: rgba(255,255,255,1);
 }
