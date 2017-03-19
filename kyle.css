@@ -19,3 +19,43 @@ body{
 .mainContent{
     color: rgba(255,255,255,1);
 }
+
+.profHist{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.profHist h1{
+    text-align: center;
+}
+
+.eduHist{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.eduHist h1{
+    text-align: center;
+}
+
+.projects{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.projects h1{
+    text-align: center;
+}
+
+.personal{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.personal h1{
+    text-align: center;
+}
