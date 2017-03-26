@@ -1,6 +1,7 @@
 body{
     background-image: url("./images/ClockTower.jpg");
     background-position: center center;
+    background-repeat: none;
 }
 
 .jumbotron{
@@ -17,13 +18,28 @@ body{
 }
 
 .mainContent{
+    color: rgba(0,0,0,1);
+    font-size: 1.25em;
+}
+
+.welcome{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 1em;
+    background: rgba(130,175,195,.65);
     color: rgba(255,255,255,1);
+}
+
+.welcome h1{
+    text-align: center;
 }
 
 .profHist{
     border: 2px solid black;
     border-radius: 10px;
     margin: 5px;
+    padding: 10px;
 }
 
 .profHist h1{
