@@ -9,7 +9,7 @@ body{
     background: transparent !important;
 }
 
-.jumboContent h1{
+.container.jumboContent h1{
     text-align: center;
     color: lightskyblue;
 }
