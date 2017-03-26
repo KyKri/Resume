@@ -1,7 +1,8 @@
 body{
-    /*background-image: url("./images/ClockTower.jpg");
+    background-image: url("./images/ClockTower.jpg");
     background-position: center center;
-    background-repeat: none;*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .jumbotron{
